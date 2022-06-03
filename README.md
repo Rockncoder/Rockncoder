@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rockncoder
-- 👀 I’m interested in Web and Mobile. Loving Flutter, SwiftUI, AWS Lambda, MongoDB, and DynamoDB
-- 🌱 I’m currently working towards getting more certifications this year in AWS (6), Android, MongoDB, and Terraform.
+- 👀 I’m interested in Web and Mobile. Loving Flutter, Kotlin and C++. Learning Rust and SwiftUI.
+- 🌱 I’m currently working towards getting more certifications this year in AWS (6), and Android.
 - 💞️ I’m looking to collaborate on nothing right now, maybe after I get all my certs.
 - 📫 Find me on Twitter at @therockncoder.
 
