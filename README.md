@@ -1,4 +1,4 @@
-# 👋 I'm the Rockncoder!
+# 👋 I'm the Rockncoder
 
 🎸 Mobile and backend developer. Occasional front-end wrangler.  
 📍 Based in sunny Southern California.
