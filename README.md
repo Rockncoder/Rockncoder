@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Rockncoder
-- 👀 I’m interested in Web and Mobile. Loving Dart, JavaScript, Kotlin, Swift, and C++. Learning Rust and SwiftUI.
-- 🌱 I’m currently working towards getting more certifications this year in AWS (6), and Android.
-- 💞️ I’m not looking to collaborate on anything right now, maybe after I get all my certs in 2023.
-- 📫 Find me on Twitter at @therockncoder.
+# 👋 I'm the Rockncoder!
 
-<!---
-Rockncoder/Rockncoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎸 Mobile and backend developer. Occasional front-end wrangler.  
+📍 Based in sunny Southern California.
+
+---
+
+## 🔧 What I'm Into
+
+- 📱 Building apps with **Dart**, **Kotlin**, **C++**, and **JavaScript**
+- ⚙️ Backend work in **C++**, **Node.js**, and **Kotlin**
+- ☁️ Currently pursuing **AWS certifications** in 2025
+- 🧠 Exploring **AI**, **SwiftUI**, and cross-platform architectures like **Flutter** and **Kotlin Multiplatform**
+- 🎓 I **teach developers to develop** — online, in person, and at conferences
+
+---
+
+## 🛠️ What I'm Working On
+
+- 🔐 Wrangling AWS certs (DevOps Pro, Architect Pro, etc.)
+- 🤖 Building local-first apps with edge AI and computer vision
+- 🧱 Creating dev tools and real-world demos in **C++**, **Dart**, and **Kotlin**
+- 🎥 Developing new coding tutorials (watch this space)
+
+---
+
+## 📫 Let's Connect
+
+- 🐦 Twitter: [@therockncoder](https://twitter.com/therockncoder)
+- 💼 LinkedIn: [linkedin.com/in/troy-miles-7516321](https://www.linkedin.com/in/troy-miles-7516321)
+- 📺 Browse all my courses here: [linkedin.com/learning/instructors/troy-miles](https://www.linkedin.com/learning/instructors/troy-miles)
+
+---
+
+> ✨ *Still building. Still learning. Still Rockin’. — July 2025*
